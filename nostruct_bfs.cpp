@@ -42,6 +42,7 @@ void bfs(vector<vector<int>> start, vector<vector<int>> goal) {
             }
         }
     }
+    cout << "IMPOSSIBLE" << '\n';
 }
 
 int main() {
